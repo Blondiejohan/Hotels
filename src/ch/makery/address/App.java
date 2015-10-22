@@ -21,7 +21,7 @@ public class App extends Application {
 
 	private Stage primaryStage;
 	private BorderPane rootLayout;
-
+	//hej
 	@Override
 	public void start(Stage primaryStage) {
 		this.primaryStage = primaryStage;
